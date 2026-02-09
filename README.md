@@ -5,7 +5,7 @@ This is a basic calculator that I built using HTML, CSS, and JavaScript. It allo
 ## Live Demo
 
 You can check it out here:  
-🔗 [Calculator App on Netlify](https://68bc6147d7f081c8823e5208--reddycalculator.netlify.app/)
+🔗 [Calculator App on Netlify](https://calculator-green-alpha-72.vercel.app/)
 
 ## Features
 
